@@ -33,7 +33,7 @@ export default function Layout() {
         }}
       />
       <Tabs.Screen
-        name="sign-up"
+        name="saibaMais"
         options={{
           tabBarLabel: "Saiba Mais",
           tabBarIcon: ({ color, size }) => (
